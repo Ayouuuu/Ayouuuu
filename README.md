@@ -1,10 +1,10 @@
 # Hello,I'm Ayou👋
-|![我的Github数据](https://github-readme-stats.vercel.app/api?username=Ayouuuu&show_icons=true&theme=merko&hide_title=true)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayouuuu)](https://github.com/Ayouuuu)|
+| [![My github stats](https://github-readme-stats.vercel.app/api?username=Ayouuuu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Ayouuuu)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayouuuu&layout=compact)](https://github.com/Ayouuuu)|
 | ------------- | ------------- |
 
 
 ## Code Language
-### Proficient in using
+### Most used
 - Java ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ### Know how to using
 - Python ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
