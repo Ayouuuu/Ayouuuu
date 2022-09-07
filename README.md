@@ -42,5 +42,5 @@
 
 <!-- https://img.shields.io/badge/dynamic/json?logo=github&labelColor=495867&color=495867&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAyouuuu&style=flat-square -->
 
-## Visitor Count
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ayouuuu-Github)
+## Badges
+![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ayouuuu-Github)
