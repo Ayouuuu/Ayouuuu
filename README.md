@@ -2,6 +2,7 @@
 | [![My github stats](https://github-readme-stats.vercel.app/api?username=Ayouuuu&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/Ayouuuu)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayouuuu&layout=compact)](https://github.com/Ayouuuu)|
 | ------------- | ------------- |
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayouuuu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [//]: # (## Code Language)
 
@@ -40,3 +41,6 @@
 -->
 
 <!-- https://img.shields.io/badge/dynamic/json?logo=github&labelColor=495867&color=495867&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAyouuuu&style=flat-square -->
+
+## Visitor Count
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ayouuuu-Github)
