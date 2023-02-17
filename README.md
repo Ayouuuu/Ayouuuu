@@ -44,4 +44,4 @@
 
 ## Badges
 ![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ayouuuu-Github)
-<a href="https://info.flagcounter.com/HcKD"><img src="https://s01.flagcounter.com/count/HcKD/bg_FFFFFF/txt_000000/border_CCCCCC/columns_3/maxflags_12/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18e623e2-552a-4f99-860f-35c6670bae2c/deploy-status)](https://ayou10031.com)
