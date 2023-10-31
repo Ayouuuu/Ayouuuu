@@ -43,5 +43,4 @@
 <!-- https://img.shields.io/badge/dynamic/json?logo=github&labelColor=495867&color=495867&label=Github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DAyouuuu&style=flat-square -->
 
 ## Badges
-![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=Ayouuuu-Github)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/18e623e2-552a-4f99-860f-35c6670bae2c/deploy-status)](https://ayou10031.com)
